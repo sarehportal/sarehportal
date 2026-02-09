@@ -2,14 +2,14 @@
 
 ### 💻 CS Major | 🧵 Fashion Enthusiast | ✨ Creative Coder
 
-I believe that code should be as well-structured as your go to book and as accessible as your favorite pair of jeans. I'm currently a Computer Science student exploring the intersection of **technology and aesthetics**.
+I believe that code should be as well-structured as your go-to book and as accessible as your favorite pair of jeans. I'm currently a Computer Science student exploring the intersection of **technology and aesthetics**.
 
 ---
 
 ### 🌟 About Me
 
 * 🎓 **Education:** Pursuing a BS in Computer Science.
-* 🎨 **Current Focus:** Leveling up my **CSS/HTML** to build beautiful web experiences, as well as pursuing a stronger knowledge on programming languages and Ai.
+* 🎨 **Current Focus:** Leveling up my **CSS/HTML** to build beautiful web experiences, as well as pursuing a stronger knowledge on programming languages and AI.
 * 🐍 **Logic:** Using **Python** to solve problems (and maybe one day automate my wardrobe).
 * 🗄️ **Data:** Managing info with **MySQL**.
 * 🖌️ **Design:** Crafting visuals and layouts on **Canva**.
@@ -29,19 +29,20 @@ I believe that code should be as well-structured as your go to book and as acces
 
 ### 📌 Current Lookbook (Projects)
 
-* **[Le Cercle Mode]**: A local fashion week seating and planning management system using PHP/CSS with a database schema to make it functional.
-* * **[Coming soon...]**
-
+* **Le Cercle Mode**: A local fashion week seating and planning management system using PHP/CSS with a database schema to make it functional.
+* **Coming soon...**
 
 ---
 
 ### 📂 Let's Collaborate!
 
-> " Fashion is the most powerful art there is. It's movement, design, and architecture all in one. It shows the world who we are and who we'd like to be." — *— Blair Waldorf 💋*
-> ...and Code is the tool to build a better reality.
+> "Fashion is the most powerful art there is. It's movement, design, and architecture all in one. It shows the world who we are and who we'd like to be." 
+> — **Blair Waldorf** 💋
+>
+> *...and Code is the tool to build a better reality.*
 
-* 📬 Reach me via: [LinkedIn](WIP)
-* 📸 Check out my designs: [WIP]
+* 📬 **Reach me via:** [LinkedIn](WIP)
+* 📸 **Check out my designs:** [WIP]
 
 ---
 
@@ -50,6 +51,5 @@ I believe that code should be as well-structured as your go to book and as acces
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarehportal&show_icons=true&theme=rose_pine)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarehportal&layout=compact&theme=rose_pine)
+
 ---
-
-
