@@ -46,8 +46,8 @@ I believe that code should be as well-structured as your go to book and as acces
 ---
 
 ### 📊 GitHub Activity
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarehportalshow_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarehportallayout=compact&theme=rose_pine)
 ---
 
 
