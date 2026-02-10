@@ -44,8 +44,12 @@ I believe that code should be as well-structured as your go-to book and as acces
 * 📬 **Reach me via:** [LinkedIn](WIP)
 * 📸 **Check out my designs:** [WIP]
 
-### 📊 GitHub Activity
+### 📊 My Tech Lookbook
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarehportal&show_icons=true&theme=rose_pine&border_radius=10)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarehportal&layout=compact&theme=rose_pine&border_radius=10)
+---
