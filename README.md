@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Sareh (2).png" alt="Sareh's Header Banner" width="100%">
 
-# 🎀 Hiiii, I'm Sareh!
+# 🎀 Hiiii, I'm Sareh! <img src="heart.gif" width="35px">
 ### 💻 CS Major | 🧵 Fashion Enthusiast | ✨ Creative Coder
 
 *"Code should be as well-structured as a book and as accessible as your favorite jeans."*
@@ -57,9 +57,8 @@
 </div>
 
 ---
-
 <div align="center">
-
+  
 ### ✨ Profile Views
 ![Views](https://komarev.com/ghpvc/?username=sarehportal&color=ff1493&labelColor=ff8da1&style=for-the-badge&label=CLOSET+VISITORS+💖)
 
