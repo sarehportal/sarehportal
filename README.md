@@ -44,4 +44,8 @@ I believe that code should be as well-structured as your go-to book and as acces
 * 📬 **Reach me via:** [LinkedIn](WIP)
 * 📸 **Check out my designs:** [WIP]
 
+### 📊 GitHub Activity
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarehportal&show_icons=true&theme=rose_pine&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarehportal&layout=compact&theme=rose_pine&border_radius=10)
