@@ -20,6 +20,8 @@
 
 ### 🛠 My Digital Closet (Tech Stack)
 
+<div align="center">
+
 ![Python](https://img.shields.io/badge/python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,12 +29,14 @@
 ![Canva](https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge&logo=Canva&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-C71585?style=for-the-badge&logo=php&logoColor=white)
 
+</div>
+
 ---
 
 ### 📌 Current Lookbook (Projects)
 
 * **Le Cercle Mode**: A local fashion week seating and planning management system using PHP/CSS with a database schema to make it functional.
-* **Coming soon...**
+* 🛠️ **Sneak Peek**: Currently designing my Portfolio and a Python-based **Personal Wardrobe Automator** to help style outfits using data-driven logic. Coming soon to a repo near you!
 
 ---
 
@@ -43,16 +47,20 @@
 >
 > *...and Code is the tool to build a better reality.*
 
+<div align="center">
+
 <a href="YOUR_LINKEDIN_URL">![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/YOUR_USERNAME">![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)</a>
-<a href="mailto:your-email@example.com">![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:harleyportal8@gmail.com">![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="YOUR_PORTFOLIO_URL">![Portfolio](https://img.shields.io/badge/Portfolio-DB7093?style=for-the-badge&logo=canva&logoColor=white)</a>
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ✨ Profile Views
-![Views](https://komarev.com/ghpvc/?username=sarehportal&color=ff1493&labelColor=ff69b4&style=for-the-badge&label=CLOSET+VISITORS+💖)
+![Views](https://komarev.com/ghpvc/?username=sarehportal&color=ff1493&labelColor=ff8da1&style=for-the-badge&label=CLOSET+VISITORS+💖)
 
 </div>
