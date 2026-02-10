@@ -1,10 +1,11 @@
-# 🎀 Hiiii, I'm Sareh (sarahwithanE)!
-
+<div align="center">
+  <img src=""C:\Users\Sareh\Downloads\Sareh (2).png"" alt="Sareh's Header Banner" width="100%">
+# 🎀 Hiiii, I'm Sareh!
 ### 💻 CS Major | 🧵 Fashion Enthusiast | ✨ Creative Coder
 
-I believe that code should be as well-structured as your go-to book and as accessible as your favorite pair of jeans. I'm currently a Computer Science student exploring the intersection of **technology and aesthetics**.
+*"Code should be as well-structured as a book and as accessible as your favorite jeans."*
 
----
+</div>
 
 ### 🌟 About Me
 
@@ -18,12 +19,12 @@ I believe that code should be as well-structured as your go-to book and as acces
 
 ### 🛠 My Digital Closet (Tech Stack)
 
-| Category | Skills |
-| --- | --- |
-| **Languages** | Python, HTML5, CSS3 |
-| **Databases** | MySQL |
-| **Design Tools** | Canva, Figma (Learning) |
-| **Vibe** | Minimalism, Dark Mode, Responsive Layouts, lots of PINK |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -44,12 +45,4 @@ I believe that code should be as well-structured as your go-to book and as acces
 * 📬 **Reach me via:** [LinkedIn](WIP)
 * 📸 **Check out my designs:** [WIP]
 
-### 📊 My Tech Lookbook
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
